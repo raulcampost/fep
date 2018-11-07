@@ -4,7 +4,7 @@
   "description": "proyecto fep con nodejs angular y mongodb",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js"
   },
   "author": "Raul Tejada",
   "license": "MIT",
